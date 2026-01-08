@@ -1,0 +1,16 @@
+{
+  "name": "ss",
+  "version": "1.0.0",
+  "description": "A professional, enterprise-level web platform for Indian citizens to report civic grievances using voice in their native language. The system automatically converts voice to text, translates to English, analyzes using AI, and generates formal complaints routed to the correct government department.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "firebase": "^12.7.0"
+  },
+  "devDependencies": {}
+}
